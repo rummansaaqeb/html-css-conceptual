@@ -51,3 +51,7 @@ h1 {
     text-align: center;
     margin: 20px 0;
 }
+.btn:hover{
+    background-color: lime;
+    cursor: pointer;
+}
